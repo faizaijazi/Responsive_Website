@@ -339,6 +339,10 @@ media queries style start
         width: 80%;
         left: 0;
     }
+
+    body{
+        overflow-x: hidden;
+    }
 }
 
 
